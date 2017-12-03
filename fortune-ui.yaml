@@ -1,0 +1,5 @@
+#fortune ui configuration.
+
+fortune:
+  fallbackFortune: Your future is unclear.
+
